@@ -3,3 +3,4 @@
 .cache
 .ipython
 .local
+.DS_Store
